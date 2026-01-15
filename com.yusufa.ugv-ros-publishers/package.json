@@ -1,0 +1,15 @@
+{
+  "name": "com.yusufa.ugv-ros-publishers",
+  "version": "0.1.0",
+  "displayName": "UGV ROS Unity Publishers",
+  "description": "Unity publishers for TF, LaserScan, Image, and vehicle feedback using ROS TCP Connector.",
+  "unity": "2022.3",
+  "author": { "name": "YusufA" },
+  "samples": [
+    {
+      "displayName": "UGV Demo",
+      "description": "Example vehicle with TF, LiDAR, and camera publishers.",
+      "path": "Samples~/UGV_Demo"
+    }
+  ]
+}
